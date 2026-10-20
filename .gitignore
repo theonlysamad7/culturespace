@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local development and research artifacts
+.update-research.cjs
+qloo-results.txt
+qloo-cross-category-results.txt
+/scripts/
