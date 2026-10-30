@@ -123,3 +123,7 @@ This combination allows the application to use Qloo's cultural intelligence with
 ## License
 
 CultureSpace is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](./LICENSE) file for the complete license terms.
+
+
+## Screenshots
+https://github.com/theonlysamad7/culturespace/issues/1
