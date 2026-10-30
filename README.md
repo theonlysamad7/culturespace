@@ -5,7 +5,7 @@ CultureSpace is a Qloo-powered cultural discovery platform that helps people exp
 
 Beyond standalone discovery, CultureSpace allows users to develop structured project briefs and use project information to guide cultural research. The goal is to make cultural discovery more connected, contextual, and useful for creative exploration.
 
-**Live Demo:** https://culturespace.devs.li
+**Live Demo:** https://culturespace1.vercel.app
 
 **Source Code:** https://github.com/theonlysamad7/culturespace
 
@@ -116,7 +116,7 @@ This combination allows the application to use Qloo's cultural intelligence with
 
 ## Project Links
 
-- **Live Application:** https://culturespace.devs.li
+- **Live Application:** https://culturespace1.vercel.app
 - **GitHub Repository:** https://github.com/theonlysamad7/culturespace
 - **Qloo API Documentation:** https://docs.qloo.com/reference/qloo-llm-hackathon-developer-guide
 
